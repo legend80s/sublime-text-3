@@ -52,3 +52,14 @@ json_encode($1, JSON_PRETTY_PRINT)
     <scope>source.php</scope>
 </snippet>
 ```
+
+5. error_log_basic
+```xml
+<snippet>
+    <content><![CDATA[
+error_log('$1');
+]]></content>
+    <tabTrigger>error_log</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
+```
