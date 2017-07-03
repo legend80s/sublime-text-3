@@ -69,3 +69,14 @@ console.log('$1:', $1);
     <scope>source.js</scope>
 </snippet>
 ```
+
+2. return
+```xml
+<snippet>
+    <content><![CDATA[
+return ${1};
+]]></content>
+    <tabTrigger>return</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
