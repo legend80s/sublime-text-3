@@ -58,7 +58,8 @@ error_log('$1');
 </snippet>
 ```
 
-6. console.log-verbose.sublime-snippet
+## JavaScript
+1. console.log-verbose.sublime-snippet
 ```xml
 <snippet>
     <content><![CDATA[
