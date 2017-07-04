@@ -1,5 +1,5 @@
 ## PHP
-.sublime-snippet
+ext: .sublime-snippet
 
 1. error_log.sublime-snippet
 
@@ -101,6 +101,16 @@ export default $1;
 
 ]]></content>
     <tabTrigger>{</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+
+5. interpolation.sublime-snippet
+```xml
+<snippet>
+    <content><![CDATA[
+\${$1}
+]]></content>
+    <tabTrigger>s</tabTrigger>
     <scope>source.js</scope>
 </snippet>
 ```
