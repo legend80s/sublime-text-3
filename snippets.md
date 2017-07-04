@@ -80,3 +80,14 @@ return ${1};
     <scope>source.js</scope>
 </snippet>
 ```
+
+3. export-default
+```xml
+<snippet>
+    <content><![CDATA[
+export default $1;
+]]></content>
+    <tabTrigger>exp</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
