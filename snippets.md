@@ -91,3 +91,16 @@ export default $1;
     <scope>source.js</scope>
 </snippet>
 ```
+
+4. key-value
+```xml
+<snippet>
+    <content><![CDATA[
+{
+  ${1:key}: '${2:value}'
+
+]]></content>
+    <tabTrigger>{</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
