@@ -58,6 +58,17 @@ error_log('$1');
 </snippet>
 ```
 
+6. array_map
+```xml
+<snippet>
+    <content><![CDATA[
+array_map(function (\$$2) { return \$$3; }, $1);
+]]></content>
+    <tabTrigger>map</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
+```
+
 ## JavaScript
 1. console.log-verbose.sublime-snippet
 ```xml
