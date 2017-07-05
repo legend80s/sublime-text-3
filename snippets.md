@@ -136,3 +136,15 @@ export default $1;
     <scope>source.js</scope>
 </snippet>
 ```
+## HTML
+
+1. p-log
+```xml
+<snippet>
+    <content><![CDATA[
+<p>$1: {{ $1 }}</p>
+]]></content>
+    <tabTrigger>log</tabTrigger>
+    <scope>text.html</scope>
+</snippet>
+```
