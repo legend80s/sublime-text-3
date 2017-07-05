@@ -1,0 +1,33 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/**"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"font_face": "Monaco",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"hide_minimap": true,
+	"index_files": false,
+	"open_files_in_new_window": false,
+	"soda_classic_tabs": true,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
