@@ -69,6 +69,17 @@ array_map(function (\$$2) { return \$$3; }, $1);
 </snippet>
 ```
 
+7. array_filter
+```xml
+<snippet>
+    <content><![CDATA[
+array_filter(${1:input}, function ($2) { return $3; });
+]]></content>
+    <tabTrigger>filter</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
 ## JavaScript
 1. console.log-verbose.sublime-snippet
 ```xml
