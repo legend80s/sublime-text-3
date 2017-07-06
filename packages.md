@@ -8,3 +8,5 @@
 3. LESS: LESS syntax highlighting for Sublime Text
 
 4. Pretty JSON
+
+5. BracketHighlighter 
