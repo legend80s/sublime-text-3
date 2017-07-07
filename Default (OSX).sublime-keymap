@@ -1,3 +1,21 @@
 [
-    { "keys": ["ctrl+a"], "command": "new_snippet" }
+    { "keys": ["ctrl+a"], "command": "new_snippet" },
+
+    // BracketHighlighter begin
+    // selects the content between the brackets
+    {
+        "no_outside_adj": null,
+        "keys": ["super+shift+a"],
+        "command": "bh_key",
+        "args":
+        {
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect"
+            }
+        }
+    }
+    // BracketHighlighter end
 ]
