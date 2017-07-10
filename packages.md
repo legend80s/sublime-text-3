@@ -10,3 +10,5 @@
 4. Pretty JSON
 
 5. BracketHighlighter 
+
+6. Sublimelinter
