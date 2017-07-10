@@ -16,9 +16,13 @@
 		"*.zip",
 		"node_modules/**"
 	],
+	"theme": "SoDaReloaded Light.sublime-theme",
+	"soda_classic_tabs": true,
+
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+		
 	"font_face": "Monaco",
-	"font_size": 15,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -26,8 +30,6 @@
 	"hide_minimap": true,
 	"index_files": false,
 	"open_files_in_new_window": false,
-	"soda_classic_tabs": true,
-	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }
