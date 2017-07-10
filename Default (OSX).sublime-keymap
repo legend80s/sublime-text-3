@@ -1,5 +1,5 @@
 [
-    { "keys": ["ctrl+a"], "command": "new_snippet" },
+    { "keys": ["ctrl+d"], "command": "new_snippet" },
 
     // BracketHighlighter begin
     // selects the content between the brackets
