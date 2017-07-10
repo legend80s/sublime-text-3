@@ -1,6 +1,7 @@
 # Packages
 
 1. EditorConfig
+
 2. DocBlockr: php / js
 
     if no function description added before function definition, add `"jsdocs_function_description": true` to your DocBlockr user settings
@@ -12,3 +13,5 @@
 5. BracketHighlighter 
 
 6. Sublimelinter
+
+7. Theme - SoDaReloaded
