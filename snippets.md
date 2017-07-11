@@ -148,3 +148,20 @@ export default $1;
     <scope>text.html</scope>
 </snippet>
 ```
+
+## Shell
+1. shebang
+```xml
+<snippet>
+    <content><![CDATA[
+#!/bin/bash
+
+set -e
+set -x
+
+$1
+]]></content>
+    <tabTrigger>#!</tabTrigger>
+    <scope>source.shell</scope>
+</snippet>
+```
