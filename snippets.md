@@ -92,6 +92,17 @@ console.log('$1:', $1);
 </snippet>
 ```
 
+2. console.log-short
+```xml
+<snippet>
+    <content><![CDATA[
+console.log('$1');
+]]></content>
+    <tabTrigger>lo</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
 2. return
 ```xml
 <snippet>
