@@ -80,6 +80,17 @@ array_filter(${1:input}, function ($2) { return $3; });
 </snippet>
 ```
 
+8. self
+```xml
+<snippet>
+    <content><![CDATA[
+self::$1
+]]></content>
+    <tabTrigger>self</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
+```
+
 ## JavaScript
 1. console.log-verbose.sublime-snippet
 ```xml
