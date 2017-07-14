@@ -158,6 +158,29 @@ export default $1;
     <scope>source.js</scope>
 </snippet>
 ```
+
+6. import
+```xml
+<snippet>
+    <content><![CDATA[
+import $1 from '$1';
+]]></content>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
+7. import-member
+```xml
+<snippet>
+    <content><![CDATA[
+import { $1 } from '$2';
+]]></content>
+    <tabTrigger>import-member</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
 ## HTML
 
 1. p-log
