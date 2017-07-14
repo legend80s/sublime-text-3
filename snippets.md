@@ -192,6 +192,39 @@ module.exports = $1;
 </snippet>
 ```
 
+9. ng-inject
+```xml
+<snippet>
+    <content><![CDATA[
+\inject = ['$1'];
+]]></content>
+    <tabTrigger>inject</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
+10. arrow-function
+```xml
+<snippet>
+    <content><![CDATA[
+() => {}
+]]></content>
+    <tabTrigger>func</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
+11. undefined
+```xml
+<snippet>
+    <content><![CDATA[
+undefined
+]]></content>
+    <tabTrigger>undefined</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
 ## HTML
 
 1. p-log
