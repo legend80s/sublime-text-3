@@ -181,6 +181,17 @@ import { $1 } from '$2';
 </snippet>
 ```
 
+8. module-exports
+```xml
+<snippet>
+    <content><![CDATA[
+module.exports = $1;
+]]></content>
+    <tabTrigger>module.exports</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
 ## HTML
 
 1. p-log
