@@ -225,6 +225,17 @@ undefined
 </snippet>
 ```
 
+12. require
+```xml
+<snippet>
+    <content><![CDATA[
+const $1 = require('$1');
+]]></content>
+    <tabTrigger>require</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
 ## HTML
 
 1. p-log
