@@ -236,6 +236,18 @@ const $1 = require('$1');
 </snippet>
 ```
 
+## Angular
+1. rootScope
+```xml
+<snippet>
+    <content><![CDATA[
+rootScope
+]]></content>
+    <tabTrigger>rootScope</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
 ## HTML
 
 1. p-log
