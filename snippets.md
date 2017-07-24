@@ -236,6 +236,17 @@ const $1 = require('$1');
 </snippet>
 ```
 
+13. node_modules
+```xml
+<snippet>
+    <content><![CDATA[
+node_modules
+]]></content>
+    <tabTrigger>node_modules</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
+```
+
 ## Angular
 1. rootScope
 ```xml
