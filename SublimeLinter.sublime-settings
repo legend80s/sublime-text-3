@@ -1,3 +1,9 @@
 user.eslint.excludes = [
   "*/node_modules/**/*.*"
 ]
+
+# 如果出现 `env: node: No such file or directory`
+"paths": {
+            "linux": [],
+            "osx": [
+                "/Users/chuanzong.lcz/git/nvs/node/7.10.1/x64/bin"
