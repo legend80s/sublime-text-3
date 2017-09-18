@@ -1,0 +1,14 @@
+<!-- 孟陬 -->
+		<dict>
+			<key>name</key>
+			<string>Function call</string>
+			<key>scope</key>
+			<string>variable.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
