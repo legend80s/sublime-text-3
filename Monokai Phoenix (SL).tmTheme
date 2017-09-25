@@ -1,4 +1,5 @@
-<!-- 孟陬 -->
+<!-- 孟陬 mz -->
+<!-- 函数名 -->
 		<dict>
 			<key>name</key>
 			<string>Function call</string>
@@ -12,3 +13,16 @@
 				<string>#A6E22E</string>
 			</dict>
 		</dict>
+<!-- 变量 -->
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
+			<string>variable.language, variable.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66D9EF</string>
+			</dict>
+		</dict>
+		<!-- /孟陬 -->
