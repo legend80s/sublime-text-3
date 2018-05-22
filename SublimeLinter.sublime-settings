@@ -7,3 +7,12 @@ user.eslint.excludes = [
             "linux": [],
             "osx": [
                 "/Users/chuanzong.lcz/git/nvs/node/7.10.1/x64/bin"
+
+# 加了还没用则
+"linters": {
+    "eslint": {
+      "env": {
+        "PATH": "/Users/chuanzong.lcz/git/nvs/node/7.10.1/x64/bin/"
+      }
+    }
+  }
