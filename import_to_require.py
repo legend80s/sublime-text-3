@@ -17,6 +17,10 @@
 # {@link http://stackoverflow.com/questions/18606682/how-can-i-open-command-line-prompt-from-sublime-in-windows7}
 # {@link https://code.tutsplus.com/tutorials/how-to-create-a-sublime-text-2-plugin--net-22685}
 
+# replace in sublime
+# import\s+([\{\s\w\-\},]+)\s+from\s+([\'"])([^\'\"]+)[\'"]
+# const \1 = require(\2\3\2)
+
 import re
 import sublime
 import sublime_plugin
