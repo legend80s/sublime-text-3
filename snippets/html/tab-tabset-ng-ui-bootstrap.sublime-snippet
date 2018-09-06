@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+<tabset>
+  <tab heading="${1:title1}">
+    ${2:content1}
+  </tab>
+  <tab heading="${3:title2}">
+    ${4:content2}
+  </tab>
+  <tab heading="${5:title3}">
+    ${6:content3}
+  </tab>
+</tabset>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>tab</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

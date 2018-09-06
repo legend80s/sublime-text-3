@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+self::$1
+]]></content>
+    <tabTrigger>self</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

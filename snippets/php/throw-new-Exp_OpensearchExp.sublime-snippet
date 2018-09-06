@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+throw new \Exp_OpensearchExp('$1', \Exp_OpensearchExp::$2);
+]]></content>
+    <tabTrigger>throw new Exp_OpensearchExp</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+require('$1')
+]]></content>
+    <tabTrigger>require-short</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

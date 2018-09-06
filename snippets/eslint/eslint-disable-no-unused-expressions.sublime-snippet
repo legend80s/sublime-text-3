@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+/* eslint-disable ${1:no-unused-expressions} */
+/* eslint-enable ${1:no-unused-expressions} */
+]]></content>
+    <tabTrigger>eslint-disable no-unused-expressions</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

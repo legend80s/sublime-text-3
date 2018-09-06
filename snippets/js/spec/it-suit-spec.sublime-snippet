@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+it('$1', () => {
+  const input = $2;
+  const expected = $3;
+  const output = $4;
+
+  expect(output).toBe(expected);
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>it-suit-spec</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+import {
+  $1,
+} from '$2';
+]]></content>
+    <tabTrigger>import-member</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+assign($1)
+]]></content>
+    <tabTrigger>assign</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

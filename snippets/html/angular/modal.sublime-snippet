@@ -1,0 +1,27 @@
+<snippet>
+    <content><![CDATA[
+<div class="modal-header">
+  <span class="modal-title">${1:Title}</span>
+  <i class="icon-no" ng-click="\$dismiss()"></i>
+</div>
+
+<div class="modal-body">
+  <div class="modal-info">
+    <h3 class="info-title">${2:Header}</h3>
+
+    <div>
+      <p class="info-detail">${3:Body}</p>
+    </div>
+  </div>
+</div>
+
+<div class="modal-footer">
+  <button class="btn btn-primary" type="button" ng-click="\$close()">确定</button>
+  <button class="btn btn-default" type="button" ng-click="\$dismiss()">取消</button>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>modal</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+<template>
+  <div>
+    <input type="text"><button>搜索</button>
+    <SuggestionList />
+  </div>
+</template>
+
+<script>
+import SuggestionList from './components/SuggestionList';
+
+export default {
+  name: 'SearchBox',
+
+  components: {
+    SuggestionList,
+  }
+};
+
+</script>
+
+<style scoped></style>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>template-vue</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.vue</scope>
+</snippet>

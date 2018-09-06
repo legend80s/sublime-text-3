@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+array_map(function (\$$2) { return \$$3; }, $1);
+]]></content>
+    <tabTrigger>map</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+NODE_ENV
+]]></content>
+    <tabTrigger>node_env</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+class $1 {
+  ${2:constructor}($3) {
+    $4
+  }
+}
+]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+JSON.stringify($1${2:, null, 2})
+]]></content>
+    <tabTrigger>json.stringify</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

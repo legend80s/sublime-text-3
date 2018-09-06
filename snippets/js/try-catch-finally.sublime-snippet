@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+try {
+  $1;
+} catch (error) {
+  console.error('error:', error);
+  $2;
+} finally {
+  $3;
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>try-catch-finally</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

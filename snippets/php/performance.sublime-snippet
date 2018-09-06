@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\$begin = microtime(true);
+error_log('costs: ' . json_encode(microtime(true) - \$begin, JSON_PRETTY_PRINT) . "s\n");
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>performance</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.php</scope>
+</snippet>

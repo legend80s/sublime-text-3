@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+catch((${1:error}) => {
+  ${2:console.error('error:', error)};
+})
+]]></content>
+    <tabTrigger>catch</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

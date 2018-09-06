@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${2:error_log}('$1: ' . json_encode($1, JSON_PRETTY_PRINT) . "\n");
+]]></content>
+    <tabTrigger>log</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

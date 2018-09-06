@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta lang="zh">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="description" content="$1">
+    <meta name="keyword" content="$2">
+    <title>$3</title>
+  </head>
+  <body>
+    $4
+  </body>
+</html>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>html:my</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
+
