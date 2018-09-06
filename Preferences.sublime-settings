@@ -14,6 +14,7 @@
 		"*.swf",
 		"*.jar",
 		"*.zip",
+		"logs/**",
 		"node_modules/**"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
@@ -27,10 +28,8 @@
 	"open_files_in_new_window": false,
 	"soda_classic_tabs": true,
 	"tab_size": 2,
-	"theme": "SoDaReloaded Dark.sublime-theme",
+	"theme": "SoDaReloaded Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
-
-	// double click to select both $ and word
-  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?$",
 	"word_wrap": true
 }

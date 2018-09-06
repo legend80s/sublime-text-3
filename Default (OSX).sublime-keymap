@@ -1,5 +1,7 @@
 [
+    { "keys": ["super+e"], "command": "import_to_require"},
     { "keys": ["ctrl+d"], "command": "new_snippet" },
+    { "keys": ["super+shift+m"], "command": "expand_selection", "args": {"to": "tag"} },
 
     // BracketHighlighter begin
     // selects the content between the brackets
