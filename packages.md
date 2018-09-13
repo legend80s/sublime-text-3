@@ -23,3 +23,5 @@
 9. [SublimeLinter-contrib-eslint](https://github.com/roadhump/SublimeLinter-eslint)
 
 10. [CaseConversion](https://github.com/jdc0589/CaseConversion)
+
+11. SiderbarEnhancements
