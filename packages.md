@@ -25,3 +25,5 @@
 10. [CaseConversion](https://github.com/jdc0589/CaseConversion)
 
 11. SiderbarEnhancements
+
+12. jsx 语法高亮 [Babel](https://github.com/babel/babel-sublime)
